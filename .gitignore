@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Database
+postgres/
+
+# n8n runtime
+n8n/storage/
+n8n/backup/
+n8n/config
+
+# Logs
+*.log
+crashjournal
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+crashjournal
+n8n/crashjournal
